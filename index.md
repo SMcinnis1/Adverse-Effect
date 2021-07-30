@@ -5,7 +5,7 @@ https://datastudio.google.com/reporting/eb2608cc-d88d-4686-b484-9eb3187d6d76
 
 ### Inspiration 
 
-For many people one of their top ten fears - is the fear of death.  There is the need as human beings to cling to live and for some to practice to take precautions to prolong their lives. Inspired by the current vaccine debates and conspiracy theories that surrounds the safety of the different vaccines. We wanted to explore and   analyzed datasets as it relates to adverse effects recorded about COVID19 vaccine administered in the United States.
+For many people one of their top ten fears - is the fear of death.  There is the need as human beings to cling to live and for some to practice precautionary measures to prolong their lives. Inspired by the current vaccine debates and conspiracy theories that surrounds the safety of the different vaccines. We wanted to explore and analyze datasets as it relates to adverse effects recorded about COVID19 vaccine administered in the United States of America.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
