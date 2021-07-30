@@ -1,8 +1,7 @@
 ## The unsfaest COVID19 Vaccine administered in the United States of America
 
-You can use the [editor on GitHub](https://github.com/SMcinnis1/Adverse-Effect/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Link to Project Reports 
+https://datastudio.google.com/reporting/eb2608cc-d88d-4686-b484-9eb3187d6d76 
 
 ### Inspiration 
 
@@ -13,10 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### What is it?
 
 Right across the globe there are many with reservations of taking Covid-19 vaccine fearing there may be adverse effects. This project is an investigation to try to find the relatively most effective or in effective or safe or unsafe  administerd vaccine   in comparison to the other vaccine noted in this project. Ineffective or unsafe is based number of deaths without patients having any negative medical history or underline illnesses also included in the spectrum of unsafe is life threating symptoms and general symptoms without underline illnesses.
-
-```markdown
-Syntax highlighted code block
-
 
 
 ### How was it built? 
@@ -29,29 +24,7 @@ We then started to clean the data- formatting field names specific standard and 
 ### Challenges
 Challenges included learning new tools to complete the project. Also Loading the datasets was another challenge as group members experienced errors while trying to upload. Also there was an issue in finding consenual meeting hours as we had incomptiable work schedules. 
 
-### Challenges
+### What's next for our project
+To create an appealing interface for our project that viewers would find easy to navigate and interact with.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SMcinnis1/Adverse-Effect/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-ttt
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
