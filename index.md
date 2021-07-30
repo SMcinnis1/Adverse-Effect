@@ -1,4 +1,4 @@
-## Adverse Effects of COVID 19 Vaccine 
+## Adverse Effects of COVID 19 Vaccines 
 
 ### Link to Project Reports 
 https://datastudio.google.com/reporting/eb2608cc-d88d-4686-b484-9eb3187d6d76 
