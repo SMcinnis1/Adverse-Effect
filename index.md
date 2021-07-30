@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/SMcinnis1/Adverse-Effect/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Inspiration 
+
+For many people one of our top ten fears - is the fear of death.  There is the need as human beings to cling to live and for some to practice to take precautions to prolong their lives. Inspired by the current vaccine debates and conspiracy theories that surrounds the safety of the different vaccines. We wanted to explore and   analyzed datasets as it relates to adverse effects recorded about COVID19 vaccine administered in the United States.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
