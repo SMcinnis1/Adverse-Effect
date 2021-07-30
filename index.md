@@ -25,6 +25,6 @@ We then started to clean the data- formatting field names to specific standard a
 Challenges included learning new tools to complete the project. Also the loading the datasets was another challenge as group members experienced errors while trying to upload. Also there was an issue in finding consenual meeting hours as we had incomptiable work schedules. 
 
 ### What's next for our project
-To create an appealing interface for our project that viewers would find easy to navigate and interact with. 
+To create an appealing interface for our project that viewers would find easy to navigate and interact with. s
 
 
